@@ -1,4 +1,4 @@
-# AWS First Session — Basics with Diagrams
+# AWS Introduction
 
 A good **first AWS session** should focus on cloud fundamentals, AWS global infrastructure, account basics, IAM, EC2, networking, storage, and a simple hands-on web-server deployment.
 
